@@ -295,3 +295,7 @@ according to its label.
    a metric space characterizes the space [citation needed]. We can then
    convert the graph/CICS into a metric space and study its Wasserstein
    space.
+
+2. The eigenvalues of the adjacency matrix of a random undirected graph are
+   distributed as a semi-circle in the limit of large number of
+   nodes. [ref](https://www.jstor.org/stable/1970008)
