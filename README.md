@@ -34,7 +34,7 @@ one of the following labels:
 
 This categorization is completely arbitrary and the authors of the list do
 not claim that it is complete or rigorously correct beyond intuition. This
-categorization is done due to the fact that there are commonalities in the
+categorization is made due to the fact that there are commonalities in the
 study of mathematical objects according to the label attached to an
 object. That is, given an object, we can ask the following questions
 according to its label.
@@ -60,6 +60,10 @@ according to its label.
     are invariant under this `rel`?
   - How difficult is it to determine that two CICS are equivalent using
     this `rel`?
+
+Note: some of the concepts used here to organize the list (e.g. invariant
+and relation) can be interpreted in terms of symmetry. For a study of
+symmetry in network science, see [ref](https://arxiv.org/abs/1006.3923).
 
 
 # The List
